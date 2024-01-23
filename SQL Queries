@@ -1,4 +1,4 @@
-```sql
+```
 select *
 from [pizza_sales (1)]
 
