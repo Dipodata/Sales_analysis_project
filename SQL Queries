@@ -1,4 +1,4 @@
-``` Sql queries
+```sql
 select *
 from [pizza_sales (1)]
 
