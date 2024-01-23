@@ -1,4 +1,3 @@
-```
 select *
 from [pizza_sales (1)]
 
@@ -106,4 +105,3 @@ select top 5 pizza_name,
 from [pizza_sales (1)]
 group by pizza_name
 order by 2 asc
-```
