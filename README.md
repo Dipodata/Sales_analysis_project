@@ -15,7 +15,7 @@ This data analysis project aims to provide detailed insights into the sales perf
 
 ## Data Sources
 
-Sales Data - the primary source used for this analysis is the “pizza_sale.csv” file, containing detailed information about the sales activity of the company.
+Sales Data - the primary source used for this analysis is the “pizza_sale(1).csv” file, containing detailed information about the sales activity of the company.
 
 ## Tools Used
 - Excel - Data Cleaning
